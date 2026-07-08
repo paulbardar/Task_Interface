@@ -8,5 +8,6 @@ namespace Output_Interface
     {
         void Show();
         void Show(string info);
+
     }
 }
