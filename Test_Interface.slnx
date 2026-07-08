@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Output_Interface/Output_Interface.csproj" Id="2002d8a8-8394-4ca7-b1f9-cb4ba3d94a3d" />
+  <Project Path="Test_Interface/Test_Interface.csproj" />
+</Solution>
